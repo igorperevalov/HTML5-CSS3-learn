@@ -1,4 +1,7 @@
-body {
-    margin: 0px 0px 0px 0px;
-    color: red;
+h1 {
+    text-align: center;
+}
+
+#special {
+    color: #eeff00bb;
 }
